@@ -26,5 +26,6 @@ Deploy:
   - git commit -a -m 'run on heroku'
   - git push heroku master
 
-http://reapp.io/
-https://toolbelt.heroku.com/
+# Sources
+- http://reapp.io/
+- https://toolbelt.heroku.com/
