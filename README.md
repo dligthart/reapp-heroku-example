@@ -4,7 +4,7 @@ Run your reapp project using Express on
 
 # Install
 - Copy server.js to your project workdir.
-- Copy Profil to your project workdir.
+- Copy Procfile to your project workdir.
 
 ## Build
   reapp build web
@@ -18,5 +18,10 @@ Set the heroku NODE_ENV environment variable to 'production' or change the value
   
   heroku config:set NODE_ENV=production
 
+Deploy:
+  git add server.js
+  git add Procfile
+  git commit -a -m 'run on heroku'
+  git push heroku master
 
 http://reapp.io/
