@@ -8,11 +8,11 @@ Run your reapp project using Express on
 
 ## Build
   
-  reapp build web
+  - reapp build web
 
 ## Run
   
-  node server
+  - node server
   
 ## Deploy
 
@@ -27,3 +27,4 @@ Deploy:
   - git push heroku master
 
 http://reapp.io/
+https://toolbelt.heroku.com/
