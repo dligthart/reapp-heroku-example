@@ -5,6 +5,7 @@ Run your reapp project using Express on
 # Install
 - Copy server.js to your project workdir.
 - Copy Procfile to your project workdir.
+- npm install express --save
 
 ## Build
   
