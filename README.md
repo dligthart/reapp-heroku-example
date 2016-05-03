@@ -7,9 +7,11 @@ Run your reapp project using Express on
 - Copy Procfile to your project workdir.
 
 ## Build
+  
   reapp build web
 
 ## Run
+  
   node server
   
 ## Deploy
